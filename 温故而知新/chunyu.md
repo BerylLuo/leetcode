@@ -1,0 +1,62 @@
+43、Multiply Strings @feiyi
+```angular2html
+class Solution:
+    def multiply(self, num1: str, num2: str) -> str:
+        n1, n2 = len(num1), len(num2)
+        if n1 == 0 or n2 == 0:
+            return '0'
+        a, b = num1[-1], num2[-1]
+        s, s2, s3, s4 = str(int(a) * int(b)), '', '', ''
+        if n1 > 1:
+            s2 = self.multiply_by_one(num1[:-1], b)
+            if s2 != '0':
+                s2 += '0'
+        if n2 > 1:
+            s3 = self.multiply_by_one(num2[:-1], a)
+            if s3 != '0':
+                s3 += '0'
+        if n1 > 1 and n2 > 1:
+            s4 = self.multiply(num1[:-1], num2[:-1])
+            if s4 != '0':
+                s4 += '00'
+        s = self.addition(s, s2)
+        s = self.addition(s, s3)
+        s = self.addition(s, s4)
+        return s
+
+    
+    def multiply_by_one(self, num: str, n: str) -> str:
+        if n == '':
+            return '0'
+        n = int(n)
+        if n == 0:
+            return '0'
+        elif n == 1:
+            return num
+        ll, carry = [], 0
+        for c in num[::-1]:
+            carry, mod = divmod(int(c) * n + carry, 10)
+            ll.append(mod)
+        if carry:
+            ll.append(carry)
+        return ''.join(list(map(str, ll))[::-1])
+    
+    def addition(self, num1: str, num2: str) -> str:
+        if len(num1) < len(num2):
+            num1, num2 = num2, num1
+        if num2 == '':
+            return num1
+        ll, carry = [], 0
+        for a, b in zip(num1[::-1], num2[::-1]):
+            carry, mod = divmod(int(a) + int(b) + carry, 10)
+            ll.append(mod)
+        # print(ll)
+        for a in num1[-len(num2) - 1::-1]: 
+            carry, mod = divmod(int(a) + carry, 10)
+            ll.append(mod)
+        if carry:
+            ll.append(carry)
+        return ''.join(list(map(str, ll))[::-1])
+```
+
+@非易 你答案给我看下，截图或像我这样贴代码都行
