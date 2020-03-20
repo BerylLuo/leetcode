@@ -6,7 +6,7 @@
 ## 步骤(以jiaxin为例)
 > 第一步：fork
 
-> 第二步：git clone https://github.com/BerylLuo/leetcode.git
+> 第二步：拉去fork后的工程，git clone https://github.com/BerylLuo/leetcode.git
 
 > 第三步：进入工程，git remote add upstream https://github.com/Chris0325/leetcode.git
 
