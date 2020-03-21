@@ -6,10 +6,10 @@
 
 559、Maximux Depth of N-ary Tree
 
-690. Employee Importance
+690、Employee Importance
 
-733. Flood Fill
+733、Flood Fill
 
-872. Leaf-Similar Trees
+872、Leaf-Similar Trees
 
-897. Increasing Order Search Tree
+897、ncreasing Order Search Tree
