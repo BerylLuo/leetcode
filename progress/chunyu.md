@@ -11,3 +11,5 @@
 1379、Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 
 925、Long Pressed Name
+
+1315、Sum of Nodes with Even-Valued Grandparent
