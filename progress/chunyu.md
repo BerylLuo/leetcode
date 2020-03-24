@@ -27,3 +27,5 @@
 1051、Height Checker
 
 509、Fibonacci Number
+
+1002、Find Common Characters
