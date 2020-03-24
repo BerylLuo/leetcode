@@ -21,3 +21,5 @@
 1346、Check If N and Its Double Exist
 
 758、Bold Words in String
+
+1385、Find the Distance Value Between Two Arrays
