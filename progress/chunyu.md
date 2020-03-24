@@ -17,3 +17,5 @@
 958、Check Completeness of a Binary Tree
 
 1184、Distance Between Bus Stops
+
+1346、Check If N and Its Double Exist
