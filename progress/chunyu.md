@@ -37,3 +37,9 @@
 742、Closest Leaf in a Binary Tree
 
 1086、High Five
+
+1108、Defanging an IP Address
+
+1134、Armstrong Number
+
+1380、Lucky Numbers in a Matrix
