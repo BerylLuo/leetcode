@@ -43,3 +43,5 @@
 1134、Armstrong Number
 
 1380、Lucky Numbers in a Matrix
+
+1325、Delete Leaves With a Given Value
