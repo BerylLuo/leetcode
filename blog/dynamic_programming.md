@@ -28,7 +28,7 @@ def count_coins(n):
         coins[i] = min(coins[i-1], coins[i-2], coins[i-4], coins[i-5]) + 1
     return coins[n]
 ```
-计算跟n的时候，对小于n的情况都算完了。所以事先把算过的结果都记录下，省得再次计算
+计算n的时候，对小于n的情况都算完了。所以事先把算过的结果都记录下，省得再次计算
 
 
 # 自上而下的dp
@@ -51,7 +51,7 @@ def count_coins(n):
     # 算完n相关的后，立马存入mydict中
     mydict[n] = min(count_coins(n-1), count_coins(n-2), count_coins(n-4), count_coins(n-5)) + 1
 
-	return mydict[n]
+    return mydict[n]
 ```
 这种方式也叫做记忆化搜索。每次算好的结果要存起来；每次调用前查看一下之前是否算过，如果计算过了，就直接返回之前记忆过的结果
 
