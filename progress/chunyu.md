@@ -47,3 +47,5 @@
 1325、Delete Leaves With a Given Value
 
 942、DI String Match
+
+1267、Count Servers that Communicate
