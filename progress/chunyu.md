@@ -20,6 +20,8 @@
 
 1030、Matrix Cells in Distance Order
 
+1042、Flower Planting With No Adjacent
+
 1051、Height Checker
 
 1086、High Five
