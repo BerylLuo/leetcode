@@ -4,4 +4,4 @@ OPEN: chunyu@feiyi https://leetcode.com/problems/climbing-stairs/   from-bottom-
 OPEN: chunyu@jiaxin https://leetcode.com/problems/valid-parentheses/
 CLOSED: feiyi@chunyu https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 OPEN: chunyu@zhouxin https://leetcode.com/problems/climbing-stairs/   from-bottom-to-top和from-top-to-bottom两种方法
-CLOSED: zhouxin@chunyu https://leetcode.com/problems/unique-paths/
+CLOSED: zhouxin@chunyu https://leetcode.com/problems/unique-paths/  from-bottom-to-top和from-top-to-bottom两种方法
