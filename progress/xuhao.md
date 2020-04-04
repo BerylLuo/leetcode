@@ -12,6 +12,12 @@
 
 121、Best Time to Buy and Sell Stock
 
+303、Range Sum Query - Immutable
+
+198、House Robber
+
+392、Is Subsequence
+
 559、Maximux Depth of N-ary Tree
 
 690、Employee Importance
