@@ -59,3 +59,11 @@
 1380、Lucky Numbers in a Matrix
 
 1385、Find the Distance Value Between Two Arrays
+
+1399、Count Largest Group
+
+1400、Construct K Palindrome Strings
+
+1401、Circle and Rectangle Overlapping
+
+1402、Reducing Dishes
