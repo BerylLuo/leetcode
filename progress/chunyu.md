@@ -42,6 +42,8 @@
 
 1134、Armstrong Number
 
+1135、Connecting Cities With Minimum Cost
+
 1184、Distance Between Bus Stops
 
 1267、Count Servers that Communicate
