@@ -67,3 +67,9 @@
 1401、Circle and Rectangle Overlapping
 
 1402、Reducing Dishes
+
+1403、Minimum Subsequence in Non-Increasing Order
+
+1404、Number of Steps to Reduce a Number in Binary Representation to One
+
+1406、Stone Game III
