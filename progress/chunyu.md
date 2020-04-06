@@ -16,6 +16,8 @@
 
 942、DI String Match
 
+947、Most Stones Removed with Same Row or Column
+
 958、Check Completeness of a Binary Tree
 
 993、Cousins in Binary Tree
