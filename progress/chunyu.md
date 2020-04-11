@@ -66,6 +66,8 @@
 
 1325、Delete Leaves With a Given Value
 
+1342、Number of Steps to Reduce a Number to Zero
+
 1346、Check If N and Its Double Exist
 
 1360、Number of Days Between Two Dates
