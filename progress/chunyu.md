@@ -38,6 +38,8 @@
 
 1108、Defanging an IP Address
 
+1119、Remove Vowels from a String
+
 1122、Relative Sort Array
 
 1130、Minimum Cost Tree From Leaf Values
