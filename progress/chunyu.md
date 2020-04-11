@@ -72,6 +72,8 @@
 
 1346、Check If N and Its Double Exist
 
+1351、Count Negative Numbers in a Sorted Matrix
+
 1360、Number of Days Between Two Dates
 
 1379、Find a Corresponding Node of a Binary Tree in a Clone of That Tree
