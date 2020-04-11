@@ -60,6 +60,8 @@
 
 1267、Count Servers that Communicate
 
+1281、Subtract the Product and Sum of Digits of an Integer
+
 1302、Deepest Leaves Sum
 
 1315、Sum of Nodes with Even-Valued Grandparent
