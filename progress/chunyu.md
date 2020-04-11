@@ -58,6 +58,8 @@
 
 1315、Sum of Nodes with Even-Valued Grandparent
 
+1323、Maximum 69 Number
+
 1325、Delete Leaves With a Given Value
 
 1346、Check If N and Its Double Exist
