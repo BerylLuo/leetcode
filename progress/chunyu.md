@@ -92,6 +92,8 @@
 
 1385、Find the Distance Value Between Two Arrays
 
+1389、Create Target Array in the Given Order
+
 1394、Find Lucky Integer in an Array
 
 1399、Count Largest Group
