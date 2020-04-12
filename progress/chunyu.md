@@ -97,3 +97,9 @@
 1404、Number of Steps to Reduce a Number in Binary Representation to One
 
 1406、Stone Game III
+
+1408、String Matching in an Array
+
+1409、Queries on a Permutation With Key
+
+1410、HTML Entity Parser
