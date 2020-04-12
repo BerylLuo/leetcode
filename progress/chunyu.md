@@ -70,6 +70,8 @@
 
 1325、Delete Leaves With a Given Value
 
+1331、Rank Transform of an Array
+
 1342、Number of Steps to Reduce a Number to Zero
 
 1346、Check If N and Its Double Exist
