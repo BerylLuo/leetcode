@@ -80,6 +80,8 @@
 
 1365、How Many Numbers Are Smaller Than the Current Number
 
+1367、Linked List in Binary Tree
+
 1374、Generate a String With Characters That Have Odd Counts
 
 1379、Find a Corresponding Node of a Binary Tree in a Clone of That Tree
