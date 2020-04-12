@@ -78,6 +78,8 @@
 
 1360、Number of Days Between Two Dates
 
+1374、Generate a String With Characters That Have Odd Counts
+
 1379、Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 
 1380、Lucky Numbers in a Matrix
