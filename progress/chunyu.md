@@ -84,6 +84,8 @@
 
 1385、Find the Distance Value Between Two Arrays
 
+1394、Find Lucky Integer in an Array
+
 1399、Count Largest Group
 
 1400、Construct K Palindrome Strings
