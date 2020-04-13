@@ -64,6 +64,8 @@
 
 1302、Deepest Leaves Sum
 
+1309、Decrypt String from Alphabet to Integer Mapping
+
 1315、Sum of Nodes with Even-Valued Grandparent
 
 1323、Maximum 69 Number
