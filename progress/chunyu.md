@@ -58,6 +58,8 @@
 
 1252、Cells with Odd Values in a Matrix
 
+1266、Minimum Time Visiting All Points
+
 1267、Count Servers that Communicate
 
 1281、Subtract the Product and Sum of Digits of an Integer
