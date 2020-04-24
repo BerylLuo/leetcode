@@ -14,4 +14,4 @@
 
 > itertools.permutations 用来遍历一个iterable的全部permutation
  
-> collections.defaultdict 可以设置默认参数的字典
+> collections.defaultdict 可以设置默认值的字典
