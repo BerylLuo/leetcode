@@ -2,6 +2,8 @@
 
 > {}, [], set()
 
+> list的sort和sorted，里面的key参数可以指定比较的方法
+
 > heapq 模块里面的heappush, heappop, heappushpop
 
 > collections.deque 使用append和pop来充当stack；使用append和popleft来充当队列
@@ -12,3 +14,4 @@
 
 > itertools.permutations 用来遍历一个iterable的全部permutation
  
+> collections.defaultdict 可以设置默认参数的字典
