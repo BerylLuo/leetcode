@@ -8,7 +8,7 @@
 
 > collections.deque 使用append和pop来充当stack；使用append和popleft来充当队列
 
-> collections.Counter 统计频率
+> collections.Counter 统计频率，主要keys, values, items, subtract方法
 
 > bisect 模块里面的bisect和bisect_left用来做二分查找
 
