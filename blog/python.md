@@ -1,4 +1,4 @@
-# python 刷题常用tools
+# Python 刷题常用函数
 
 - {}, [], set()
 
@@ -7,6 +7,7 @@
 - heapq 模块里面的heappush, heappop, heappushpop，比如
 
 ```
+# 使用元组，每个元祖的长度任意，例子里面为2
 q = []
 heappush(q, (2, 'second'))
 heappush(q, (1, 'first'))
@@ -17,6 +18,19 @@ while len(q):
 first
 second
 third
+"""
+
+# 使用单独元素
+q = []
+heappush(q, 2)
+heappush(q, 1)
+heappush(q, 3)
+while len(q):
+    print(heappop(q)[1])
+"""
+1
+2
+3
 """
 ```
 
