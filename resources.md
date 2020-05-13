@@ -1,4 +1,4 @@
-# 群聊记录
+# 群聊分享资源
 
 1、https://zhuanlan.zhihu.com/p/123966734?utm_source=wechat_session&utm_medium=social&utm_oi=669541018513313792
 
