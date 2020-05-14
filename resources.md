@@ -14,7 +14,7 @@
     
 4、https://zhuanlan.zhihu.com/p/126536963
 
-    相关题目：778. 水位上升的泳池中游泳、
+    相关题目：778. 水位上升的泳池中游泳
 5、https://zhuanlan.zhihu.com/p/126546914
 
 6、https://zhuanlan.zhihu.com/p/126538872
