@@ -10,6 +10,8 @@
 
 3、https://zhuanlan.zhihu.com/p/125724782?utm_source=wechat_session&utm_medium=social&utm_oi=669541018513313792
 
+    相关题目：272. 最接近的二叉搜索树值 II、862. 和至少为 K 的最短子数组, 239. 滑动窗口最大值、340. 至多包含 K 个不同字符的最长子串、480. 滑动窗口中位数、79. 单词搜索、60. 第k个排列、1377. T 秒后青蛙的位置、270. 最接近的二叉搜索树值、510. 二叉搜索树中的中序后继 II、138. 复制带随机指针的链表、146. LRU缓存机制
+    
 4、https://zhuanlan.zhihu.com/p/126536963?utm_source=wechat_session&utm_medium=social&utm_oi=669541018513313792
 
 5、https://zhuanlan.zhihu.com/p/126546914?utm_source=wechat_session&utm_medium=social&utm_oi=669541018513313792
