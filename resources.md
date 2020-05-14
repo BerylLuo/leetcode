@@ -1,21 +1,22 @@
 # 群聊分享资源
 
-1、https://zhuanlan.zhihu.com/p/123966734
+1、带权邻接表的单源最短路 https://zhuanlan.zhihu.com/p/123966734
 
     相关题目：743. 网络延迟时间、127. 单词接龙、444. 序列重建、1091. 二进制矩阵中的最短路径
     
-2、https://zhuanlan.zhihu.com/p/125348466
+2、前缀和&差分 https://zhuanlan.zhihu.com/p/125348466
 
     相关题目：303. 区域和检索 - 数组不可变、304. 二维区域和检索 - 矩阵不可变、560. 和为K的子数组、327. 区间和的个数、437. 路径总和 III
 
-3、https://zhuanlan.zhihu.com/p/125724782
+3、树形滑动窗口&双端队列&二叉查找树前驱后继 https://zhuanlan.zhihu.com/p/125724782
 
     相关题目：272. 最接近的二叉搜索树值 II、862. 和至少为 K 的最短子数组, 239. 滑动窗口最大值、340. 至多包含 K 个不同字符的最长子串、480. 滑动窗口中位数、79. 单词搜索、60. 第k个排列、1377. T 秒后青蛙的位置、270. 最接近的二叉搜索树值、510. 二叉搜索树中的中序后继 II、138. 复制带随机指针的链表、146. LRU缓存机制
     
-4、https://zhuanlan.zhihu.com/p/126536963
+4、值域二分&优先级队列BFS https://zhuanlan.zhihu.com/p/126536963
 
     相关题目：778. 水位上升的泳池中游泳
-5、https://zhuanlan.zhihu.com/p/126546914
+
+5、DP问题分类汇总 https://zhuanlan.zhihu.com/p/126546914
 
 6、https://zhuanlan.zhihu.com/p/126538872
 
