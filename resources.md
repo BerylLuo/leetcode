@@ -20,6 +20,8 @@
 
 6、https://zhuanlan.zhihu.com/p/126538872
 
+    相关题目：200. 岛屿数量、1036. 逃离大迷宫
+
 7、https://zhuanlan.zhihu.com/p/128186248
 
 8、https://zhuanlan.zhihu.com/p/128524579
@@ -63,3 +65,5 @@
 27、https://leetcode-cn.com/explore/
 
 28、https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/
+
+29、https://bit.ly/2E8yBHq 如何快速刷题
