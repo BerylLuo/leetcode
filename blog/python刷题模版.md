@@ -77,6 +77,63 @@ def floyd(adj, N, s):
                 mat[i][j] = min(mat[i][j], mat[i][k] + mat[k][j])
 
     return mat[s]
+    
+class STNode:
+    def __init__(self, lo, hi, val=0, left=None, right=None):
+        self.lo, self.hi, self.val = lo, hi, val
+        self.left, self.right = left, right
+
+class SegmentTree:
+    def __init__(self, nums, lo, hi):
+        self.validate(lo, hi)
+        self.root = self.build(nums, lo, hi)
+
+    def build(self, nums, lo, hi):
+        if lo == hi:
+            return STNode(lo, hi, nums[lo])
+        else:
+            mid = lo + (hi - lo) // 2
+            left = self.build(nums, lo, mid)
+            right = self.build(nums, mid+1, hi)
+            return STNode(lo, hi, left.val + right.val, left, right)
+
+    def add(self, val, lo, hi):
+        self.validate(lo, hi)
+        self._add(self.root, val, lo, hi)
+
+    def query(self, lo, hi):
+        self.validate(lo, hi)
+        return self._query(self.root, lo, hi)
+
+    def _add(self, root, val, lo, hi):
+        if root.lo == root.hi:
+            root.val += val
+        else:
+            mid = root.lo + (root.hi - root.lo) // 2
+            if lo > mid:
+                self._add(root.right, val, lo, hi)
+            elif hi <= mid:
+                self._add(root.left, val, lo, hi)
+            else:
+                self._add(root.left, val, lo, mid)
+                self._add(root.right, val, mid+1, hi)
+            root.val = root.left.val + root.right.val
+
+    def _query(self, root, lo, hi):
+        if root.lo == lo and root.hi == hi:
+            return root.val
+        else:
+            mid = root.lo + (root.hi - root.lo) // 2
+            if lo > mid:
+                return self._query(root.right, lo, hi)
+            elif hi <= mid:
+                return self._query(root.left, lo, hi)
+            else:
+                return self._query(root.left, lo, mid) + self._query(root.right, mid+1, hi)
+
+    def validate(self, lo, hi):
+        if lo > hi:
+            raise ValueError('lo > hi is not allowed!!!')
 ```
 
 建立相邻表,需要保持节点的索引以0开始
