@@ -66,4 +66,6 @@
 
 28、https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/
 
-29、https://bit.ly/2E8yBHq 如何快速刷题
+29、https://bit.ly/2E8yBHq 刷题题目总结
+
+30、https://fenneldumplings.github.io/2020/05/19/%E5%8A%9B%E6%89%A3355-%E5%93%88%E5%B8%8C%E8%A1%A8-%E9%93%BE%E8%A1%A8%E5%A4%9A%E8%B7%AF%E5%BD%92%E5%B9%B6
