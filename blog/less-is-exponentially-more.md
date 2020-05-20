@@ -167,3 +167,5 @@ And we should have realized that from the beginning. People who are excited abou
 Thank you.
 
 Rob Pike
+
+原文链接：https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html
