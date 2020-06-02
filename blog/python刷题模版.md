@@ -1,9 +1,10 @@
 # Python 刷题模版
 
 ```
+from heapq import *
+from math import sqrt, gcd
 from itertools import permutations, count, chain
 from collections import defaultdict, Counter, deque, OrderedDict
-from heapq import *
 from bisect import bisect, bisect_left
 
 INF = float('inf')
